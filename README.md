@@ -14,6 +14,9 @@ Finally, you'll learn how to make webpages that respond to different screen size
     In this course, you'll learn the most common HTML tags by building your own cat photo app."
     ## File:"CatPhotoApp.html"
 
+    Heading level 1
+    ===============
+
 #  Exercise 2:
      ### Title:"Learn Basic CSS by Building a Cafe Menu"
      ### Description: "CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
